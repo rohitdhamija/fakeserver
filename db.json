@@ -7,22 +7,6 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "expense": [
-{
-        "CHEESE BASIC": {
-          "description": "Classic marinara sauce topped with whole milk mozzarella cheese.",
-          "image": "https://cdn.pixabay.com/photo/2017/09/03/10/35/pizza-2709845__340.jpg"
-        },
-        "PEPPERONI": {
-          "description": "Classic marinara sauce with authentic old-world style pepperoni.",
-          "image": "https://cdn.pixabay.com/photo/2017/08/02/12/38/pepperoni-2571392__340.jpg"
-        },
-        "MEAT LOVER": {
-          "description": "Classic marinara sauce, authentic old-world pepperoni, all-natural Italian sausage, slow-roasted ham, hardwood smoked bacon, seasoned pork and beef.",
-          "image": "https://cdn.pixabay.com/photo/2017/07/22/22/51/big-2530144__340.jpg"
-        }
-}
-]
+  }
     
 }
